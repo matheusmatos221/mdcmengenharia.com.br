@@ -1,0 +1,33 @@
+.btn-orçamento {
+    color: white;
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .btn-orçamento:hover {
+    color: black;
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .btn-orçamento:focus, .btn-orçamento.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
+  }
+  
+  .btn-orçamento.disabled, .btn-orçamento:disabled {
+    color: grey;
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .btn-orçamento:not(:disabled):not(.disabled):active, .btn-orçamento:not(:disabled):not(.disabled).active,
+  .show > .btn-orçamento.dropdown-toggle {
+    color: wheat;
+    background-color: yellow;
+    border-color: yellow;
+  }
+  
+  .btn-orçamento:not(:disabled):not(.disabled):active:focus, .btn-orçamento:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-orçamento.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
+  }
