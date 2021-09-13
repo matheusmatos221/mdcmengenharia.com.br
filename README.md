@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mdcmengenharia.com.br
 Site da MDCM Engenharia Elétrica
 =======
@@ -20,4 +19,3 @@ O site será formatado em um esquema de landingpage, o objetivo inicial do site 
 ## Objetivo secundário
 
 Objetivando automatizar o orçamento, o site poderá no futuro contar com um sistema onde o próprio cliente poderá entrar com seus dados a respeito de consumo e tipo de telhado e o próprio site terá uma rotina de cálculo para dar um valor de orçamento ao cliente. Essa é uma idéia secundário por se tratar de uma idéia que necessita de um estudo mais aprofundado para posteriormente haver a sua implementação
->>>>>>> alphaVersion
