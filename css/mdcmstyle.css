@@ -31,3 +31,8 @@
   .show > .btn-orçamento.dropdown-toggle:focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
   }
+
+/*Testes e/ou exibição de containers e etc...*/
+/* .col{
+  border: darkblue solid 5px;
+} */
